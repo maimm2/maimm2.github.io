@@ -41,12 +41,12 @@ linkedin: mai-mohamed-ling
 github: maimm2
 email: maimm2@illinois.edu
 
-#authors:
-  #johndoe:
-    #name: John Doe
-    #bio: A Man who travels the world eating noodles
-    #external-image: false
-    #picture: assets/images/profile.jpg
+authors:
+  Mai Mohamed:
+    name: Mai Mohamed
+    bio: Computational Linguistics PhD student @ UIUC
+    external-image: false
+    picture: assets/images/profilephoto.jpeg
     #twitter: johndoe
   #jamesfoster:
     #name: James Foster
