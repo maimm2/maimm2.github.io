@@ -1,6 +1,6 @@
 # main text of home
 title: Mai Mohamed
-bio: Computational Linguistics PhD Student @UIUC
+bio: Computational Linguistics PhD Student @UIUC. My current advisor is Professor Lane Schwartz, and my dissertation focuses on computational models in relation to Arabic morpho-syntax. 
 
 # twitter summary info
 description: Documenting PhD and Grad School Journey
@@ -69,10 +69,10 @@ pagination:
   permalink: "/:num/" # pagination link that will be appended
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+#projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: true
+#about: true
 #blog: true
 
 # do you want to show the "read time" of the posts?
