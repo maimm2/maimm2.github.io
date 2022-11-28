@@ -1,2 +1,4 @@
- maimm2.io - CNAME    - https://maimm2.github.io/ 
+Type	Host name	Pointsto
+CNAME	www	maimm2.github.io
+ALIAS		maimm2.github.io
 
